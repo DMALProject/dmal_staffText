@@ -20,5 +20,3 @@ shared_script '@ox_lib/init.lua'
 
 -- PROP FILE
 data_file 'DLC_ITYP_REQUEST' 'stream/stafftext.ytyp'
-
-escrow_ignore {'config.lua'}
